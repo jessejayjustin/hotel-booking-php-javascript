@@ -1,1 +1,1 @@
-# Hotel Management System PHP MySQL
+# Hotel Management System Project Using AJAX, PHP, MySQL
