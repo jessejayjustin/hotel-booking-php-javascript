@@ -1,1 +1,1 @@
-# hotel-booking-php-javascript
+# Hotel Management System PHP
