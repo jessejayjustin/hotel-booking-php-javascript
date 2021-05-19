@@ -1,1 +1,1 @@
-# Hotel Management System PHP
+# Hotel Management System PHP MySQL
